@@ -1,6 +1,6 @@
 # Jeremy Peters
 
-Aspiring developer. USPS letter carrier since 2010, building skills in code.
+Aspiring developer. USPS Carrier since 2010, building skills in code.
 
 ## Working with
 - Python
