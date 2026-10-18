@@ -6,7 +6,7 @@ Aspiring developer. USPS Carrier since 2010, building skills in code.
 - Python
 - HTML/CSS (responsive design)
 - Data science & machine learning
-- Analytics
+- Javascript
 
 ## Background
 - Full-time letter carrier, USPS (2010–present)
@@ -17,4 +17,4 @@ Aspiring developer. USPS Carrier since 2010, building skills in code.
 - LinkedIn: https://www.linkedin.com/in/jeremythomaspeters
 
 ## Outside of code
-Strength training, shadowboxing, vegan cooking.
+Strength training, vegan cooking.
