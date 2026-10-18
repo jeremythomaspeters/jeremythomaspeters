@@ -5,7 +5,7 @@ Aspiring developer. USPS Carrier since 2010, building skills in code.
 ## Working with
 - Python
 - HTML/CSS 
-- Data science
+- Linux
 - Javascript
 
 ## Background
